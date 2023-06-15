@@ -1780,10 +1780,10 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@openspace-protocol/sdk@^0.0.5":
-  version "0.0.5"
-  resolved "https://registry.yarnpkg.com/@openspace-protocol/sdk/-/sdk-0.0.5.tgz#cd5c55e305d27e040c97a31140c40b8de62f4cac"
-  integrity sha512-vBRP/Ru2WbTfyV/l9qC/YtH0aXFpMvLtZsDL7W2zb5ck49ByZLMHx8YUwpbOZ2VO6trLxLoB1uk5oIp8AREJLg==
+"@openspace-protocol/sdk@^0.1.0":
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/@openspace-protocol/sdk/-/sdk-0.1.0.tgz#a9f3bd3a43c1f8724c3e093623ed914dde2594fa"
+  integrity sha512-gu7yWfDFVkNaf3lAY+0FimhAWvHg2uTQpQqhuQ/EbFAe70xjGnTi3igDzPorSQkEn7cZ0frcsue42TcVPKtQBw==
   dependencies:
     "@babel/runtime" "^7.20.7"
     axios "^1.4.0"
